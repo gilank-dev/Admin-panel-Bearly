@@ -1,0 +1,16 @@
+{
+  "name": "Bearly Admin Panel",
+  "short_name": "Bearly Admin",
+  "description": "Admin dashboard for AI Chatbot user management.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "100x100",
+      "type": "image/svg+xml"
+    }
+  ]
+}
